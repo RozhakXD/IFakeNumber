@@ -18,7 +18,7 @@ Dengan antarmuka yang interaktif dan fitur-fitur canggih, IFakeNumber memudahkan
 ## 🚀 Instalasi
 1. Clone repositori ini:
     ```bash
-    git clone https://github.com/username/IFakeNumber.git
+    git clone https://github.com/RozhakXD/IFakeNumber.git
     cd IFakeNumber
     ```
 2. Install dependencies:
