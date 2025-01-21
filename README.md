@@ -9,11 +9,11 @@
 Dengan antarmuka yang interaktif dan fitur-fitur canggih, IFakeNumber memudahkan Anda untuk menghasilkan nomor telepon dalam jumlah banyak, mengekspor data ke file CSV, dan memastikan nomor yang dihasilkan terstruktur dengan format yang valid. 🚀
 
 ## 🌟 Fitur Utama
-- 🎯 Generate nomor palsu berdasarkan provider (Telkomsel, Indosat, XL, dll).
-- 🚀 Generate **jumlah banyak** sekaligus (bulk).
-- 📱 Format nomor yang realistis (contoh: `0812-3456-7890`).
-- 📂 Export ke file CSV dengan struktur yang rapi.
-- 🖥️ Tampilan terminal interaktif menggunakan library `rich`.
+- 📱 **Format Realistis**: Nomor yang dihasilkan memiliki format yang valid dan terstruktur (contoh: 0812-3456-7890).
+- 🎯 **Multi-Provider Support**: Generate nomor dari berbagai provider seperti Telkomsel, Indosat, XL, Axis, Smartfren, dan Three (3).
+- 🚀 **Bulk Generation**: Hasilkan ribuan nomor sekaligus dengan cepat.
+- 📂 **Export ke CSV**: Simpan hasil generate ke file CSV untuk penggunaan lebih lanjut.
+- 🖥️ **Tampilan Interaktif**: Antarmuka terminal yang modern dan mudah digunakan.
 
 ## 🚀 Instalasi
 1. Clone repositori ini:
