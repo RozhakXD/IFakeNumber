@@ -4,7 +4,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
-**IFakeNumber** adalah alat untuk menghasilkan nomor telepon Indonesia palsu yang terlihat asli, ditujukan **khusus untuk keperluan edukasi**. Alat ini membantu pengembang, tester, atau edukator untuk mensimulasikan nomor telepon tanpa menggunakan data nyata. 🛡️
+**IFakeNumber** adalah alat inovatif yang dirancang untuk menghasilkan nomor telepon Indonesia palsu yang terlihat asli. Alat ini dikembangkan khusus untuk keperluan edukasi, pengujian, dan simulasi, membantu pengembang, QA tester, dan edukator dalam melakukan uji coba tanpa menggunakan data nyata. 🛡️
+
+Dengan antarmuka yang interaktif dan fitur-fitur canggih, IFakeNumber memudahkan Anda untuk menghasilkan nomor telepon dalam jumlah banyak, mengekspor data ke file CSV, dan memastikan nomor yang dihasilkan terstruktur dengan format yang valid. 🚀
 
 ## 🌟 Fitur Utama
 - 🎯 Generate nomor palsu berdasarkan provider (Telkomsel, Indosat, XL, dll).
